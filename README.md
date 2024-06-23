@@ -1,4 +1,6 @@
-![img.png](img.png) # Bootcamp Santander 2024 - Backend com Java
+<img src="![img.png](img.png)" alt="Java" width="300" height="200" />
+
+ # Bootcamp Santander 2024 - Backend com Java
 
 Trilha de Back-end Java do Santander Bootcamp 2024.
 Aprenda desde os primeiros passos com Java partindo da sintaxe básica até a implementação de uma API utilizando Spring para se tornar um profissional atrativo no mercado.
