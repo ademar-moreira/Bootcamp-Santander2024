@@ -3,7 +3,7 @@
 Trilha de Back-end Java do Santander Bootcamp 2024.
 Aprenda desde os primeiros passos com Java partindo da sintaxe básica até a implementação de uma API utilizando Spring para se tornar um profissional atrativo no mercado.
 
-## Grade completa:
+## Grade completa
 
 → Princípios de Desenvolvimento de Software Colaborativo;
 → Dominando a Linguagem de Programação Java;
