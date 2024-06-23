@@ -1,4 +1,4 @@
-<img src="![img.png](img.png)" alt="Java" width="300" height="200" />
+<img src="img.png" alt="Descrição da imagem" width="100" height="100" />
 
  # Bootcamp Santander 2024 - Backend com Java
 
